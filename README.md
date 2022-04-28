@@ -30,3 +30,4 @@
 28. [HashiCorp](https://www.hashicorp.com/blog)
 29. [MongoDB](https://engineering.mongodb.com/)
 30. [Twitch Engineering](https://blog.twitch.tv/en/en/tags/engineering/)
+31. [Flant blog - DevOps & Kubernetes Goodies](https://blog.flant.com/)

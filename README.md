@@ -31,3 +31,4 @@
 29. [MongoDB](https://engineering.mongodb.com/)
 30. [Twitch Engineering](https://blog.twitch.tv/en/en/tags/engineering/)
 31. [Flant blog - DevOps & Kubernetes Goodies](https://blog.flant.com/)
+32. [Line Engineering](https://engineering.linecorp.com/en/)
